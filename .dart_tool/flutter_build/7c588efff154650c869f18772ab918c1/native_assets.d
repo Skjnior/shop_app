@@ -1,0 +1,1 @@
+ /Users/cauridor/StudioProjects/shop_app/.dart_tool/flutter_build/7c588efff154650c869f18772ab918c1/native_assets.yaml: 
